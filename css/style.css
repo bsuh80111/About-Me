@@ -1,0 +1,62 @@
+/*
+	 Color Pallete
+	 White: FFFFFF
+	 Middle Blue Green: 84DCC6
+	 Aquamarine: A5FFD6
+	 Melon: FFA69E
+	 Light Coral: FF686B
+*/
+
+/* Global Styles
+----------------------------------*/
+body {
+
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:visited {
+	color: #000000;
+}
+
+img {
+	width: 300px;
+}
+
+/* Profile section
+----------------------------------*/
+header {
+	background: #84DCC6;
+}
+
+/* Project section
+----------------------------------*/
+.projects {
+	background: #FFFFFA;
+}
+
+.projects .project-link {
+	background: #84DCC6;
+	text-decoration: none;
+	padding: 8px;
+	border-radius: 4px;
+}
+
+.projects .project-link:hover {
+	background: rgba(132, 220, 198,80%);
+}
+
+/* Work experience section
+----------------------------------*/
+.work-experience {
+	background: #FFA69E;
+}
+
+/* Education section
+----------------------------------*/
+.education {
+	background: #FF686B;
+	color: #FFFFFF;
+}
